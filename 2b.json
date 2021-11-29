@@ -1,0 +1,66 @@
+[
+	{
+		"Name":"Komputer Laptop",
+		"Childs":
+		[
+			{
+				"Name":"Aksesoris Komputer & Laptop",
+				"Childs":
+				[
+					{
+						"Nama Sub Sub-Kategori":"Adaptor Laptop",
+						"Produk":[]
+					}
+				]
+			},
+			{
+				"Name":"Laptop",
+				"Childs":
+				{
+					"Nama Sub Sub-Kategori":"Ultrabook",
+					"Produk":[]
+				}
+			},
+			{
+				"Name":"Media Penyimpanan Data",
+				"Childs":
+				{
+					"Nama Sub Sub-Kategori":"Harddisk External",
+					"Produk":[]
+				}
+			}
+		]
+	},
+	{
+		"Name":"Fashion Pria",
+		"Childs":
+		[
+			{
+				"Name":"Aksesoris Pria",
+				"Childs":
+				[
+					{
+						"Nama Sub Sub-Kategori":"Ikat Pinggang Pria",
+						"Produk":[]
+					}
+				]
+			},
+			{
+				"Name":"Atasan Pria",
+				"Childs":
+				{
+					"Nama Sub Sub-Kategori":"Kaos Polo Pria",
+					"Produk":[]
+				}
+			},
+			{
+				"Name":"Jam Tangan Pria",
+				"Childs":
+				{
+					"Nama Sub Sub-Kategori":"Jam Tangan Analog Pria",
+					"Produk":[]
+				}
+			}
+		]
+	}
+]
